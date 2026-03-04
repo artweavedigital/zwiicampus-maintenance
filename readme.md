@@ -1,6 +1,6 @@
 # SiteAudit Campus — Audit & Maintenance pour ZwiiCampus
 
-**SiteAudit Campus** est une version du module d’audit pensée pour **ZwiiCampus** : elle analyse **les pages CMS standards** (site d’accueil) *et* **les espaces de formation** (cours), puis propose des actions sûres pour nettoyer et corriger.
+**SiteAudit Campus** est une version du module d’audit pensée pour **ZwiiCms** : elle analyse **les pages CMS standards** (site d’accueil) *et* **les espaces de formation** (cours), puis propose des actions sûres pour nettoyer et corriger.
 
 — Détecter, comprendre, corriger… sans casser ton site.
 
@@ -254,4 +254,5 @@ Dans ce cas, relève l’URL exacte dans le HTML et relance un audit.
 Module conçu pour l’écosystème **ZwiiCampus**, stockage flat-file, approche “safe-first”.
 
 ---
+
 
